@@ -7,6 +7,9 @@
    ## Integrantes
    **Nombre 1:** Regis Reyes Jazmin Arleth.
    **Num.control:** 23308060610258
+   ![yo](https://github.com/user-attachments/assets/f1584314-9281-4935-b4fe-a8ed2d6971ab)
+
+
    **Nombre 2:** Zeferino Leonardo Anette Michel
    **Num.control:** 23308060610457
    **Grupo:** 5-D
