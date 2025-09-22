@@ -5,7 +5,7 @@
    ## Objetivo
    El objetvo de nuestra aplcacion es implementar el conocimiento en base a la nuticion en una aplicacion que sera realizada con APIS
    ## Integrantes
-   **Nombre 1:** Regis Reyes Jazmin Arleth
+   **Nombre 1:** Regis Reyes Jazmin Arleth.
    **Num.control:** 23308060610258
    **Nombre 2:** Zeferino Leonardo Anette Michel
    **Num.control:** 23308060610457
