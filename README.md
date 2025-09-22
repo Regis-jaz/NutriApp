@@ -1,4 +1,4 @@
 # NutriApp
-Proyecto de aplicación de nutrición
+## Proyecto de aplicación de nutrición
 
-Objetivo
+## Objetivo
